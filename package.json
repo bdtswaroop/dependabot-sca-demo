@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "axios": "0.18.1",
-    "glob": "7.1.6",
+    "glob": "13.0.6",
     "lodash": "4.17.0",
-    "minimatch": "3.0.4",
+    "minimatch": "10.2.5",
     "moment": "2.29.4",
     "serialize-javascript": "4.0.0",
     "set-value": "2.0.1"
